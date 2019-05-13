@@ -50,8 +50,9 @@ export default {
         attrs: {
           class: `icon icon-${props.name}`,
           viewBox: '0 0 24 24',
-          width: '24px',
-          height: '24px'
+          width: '30px',
+          height: '30px',
+          fill: '#cc7b6e'
         }
       },
       children
